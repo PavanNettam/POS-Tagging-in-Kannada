@@ -25,3 +25,4 @@ Argument Details
 
 
 --------------------------------------------------------------------------
+link to project: https://github.com/PavanNettam/POS-Tagging-in-Kannada
